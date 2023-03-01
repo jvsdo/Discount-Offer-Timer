@@ -1,0 +1,42 @@
+body {
+  background-color: #F5F5F5;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #1C1C1C;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+p {
+  font-size: 1.5rem;
+  color: #666;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+#countdown {
+  font-size: 6rem;
+  font-weight: bold;
+  color: #F5F5F5;
+  background-color: #1C1C1C;
+  padding: 2rem;
+  border-radius: 1rem;
+  margin: 3rem auto;
+  text-align: center;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2);
+  width: 20rem;
+  height: 20rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#countdown span {
+  font-size: 3rem;
+  font-weight: normal;
+  color: #F5F5F5;
+  margin: 0 1rem;
+}
